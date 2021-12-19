@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T09:47:01.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="ypNguVJwQdL7s2rHF2OO" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T09:47:47.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="vDqz0zseo8_UsUjBrpN-" version="15.9.4" type="github">
   <diagram id="ZEfPuLLMJMWpmsokMUxt" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry x="500" y="120" width="340" height="320" as="geometry" />
         </mxCell>
         <mxCell id="B-M5C0hGjFtWOs6rULiK-3" value="Policy Mgmt" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="270" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B-M5C0hGjFtWOs6rULiK-4" value="Claim Fulfillment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="187.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="187.5" width="100" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="B-M5C0hGjFtWOs6rULiK-5" value="Policy Sales" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="247.5" width="80" height="45" as="geometry" />
